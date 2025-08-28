@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mars135
-- 👀 I’m interested in Heml, CSS and JS
+- 👀 I’m interested in Html, CSS/Tailwind, JS and Python.
 - 🌱 I’m currently learning in High School.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by sending an email to mrsamgain@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I learned coding from youtube.
